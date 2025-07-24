@@ -14,7 +14,7 @@ These tasks helped me build a strong understanding of:
 - Real-world applications of Python scripting
 
 ## ⚡ Current Update:
-I'm now focused on SQL, backend development, and analytics skills.  
+I'm now focused on SQL , backend development, and analytics skills.  
 This repo is a part of my early data journey.
 
 ---
